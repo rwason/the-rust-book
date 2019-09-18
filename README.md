@@ -1,0 +1,1 @@
+This is a repo where I'm going to house exercises, learnings, and notes while going through [The Rust Book](https://doc.rust-lang.org/book/title-page.html)
